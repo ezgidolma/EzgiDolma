@@ -1,8 +1,8 @@
-[![MasterHead](https://i.pinimg.com/originals/7d/07/a2/7d07a255678962d30d8717dcf5dbd266.gif)
+
 <h1 align="center">Hi 👋, I'm Ezgi</h1>
 <h3 align="center">A junior backend developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Nest.Js**
 
 - 📫 How to reach me **ezgidolma23@gmail.com**
 
